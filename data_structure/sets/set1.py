@@ -7,5 +7,6 @@
 x = {"apple", 1,2,4}
 
 print(x[1])   # this will give error because sets 
-              # does not support indexinh
+              # does not support indexing
+
 
