@@ -1,3 +1,5 @@
+# single inheritance means single parent
+
 class A:
     def __init__(self):
         self.name = input("Enter name: ")

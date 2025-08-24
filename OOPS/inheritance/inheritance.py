@@ -26,3 +26,13 @@ s1 = child("","")
 s1.display()
 
 # child class of parents can use its functions and properties
+
+# Single Inheritance → 1 parent → 1 child
+
+# Multiple Inheritance → 2+ parents → 1 child
+
+# Multilevel Inheritance → Grandparent → Parent → Child
+
+# Hierarchical Inheritance → 1 parent → 2+ children
+
+# Hybrid Inheritance → Combination of two or more types
